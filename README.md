@@ -1,5 +1,5 @@
-# We are FH
-## DEV_CB_BASE
+# WeR_FH
+Explore and Enjoy
 
 ### Just Travel !
 
